@@ -1,0 +1,22 @@
+body {
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    background-color: #f78da7;
+  }
+
+.hidden {
+    font-size: 18px;
+    color: blue;
+    background-color: greenyellow;
+    font-weight: bold;
+}
+h1{
+    color: blue;
+}
+h3 {
+    font-size: 20px;
+}
+
+td{
+    font-size: 18px;
+    font-weight: bold;
+}
